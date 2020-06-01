@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: BeeX bastion VPC template
+Description: VPC template
 
 Parameters:
   TwoOctetCidr:
